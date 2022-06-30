@@ -1,0 +1,16 @@
+{
+  "name" : "burhaniya-cms",
+  "version" : "0.1.0",
+  "description": "Content Management System for the Tariqa Burhaniya",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "start.dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
